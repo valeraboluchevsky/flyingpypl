@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flyingpypl.com/sitemap.xml
